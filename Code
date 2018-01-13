@@ -341,7 +341,7 @@ namespace TicTacToe
             // additional required properties for your database.
             conn.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;" +
                 @"Data source= C:\Users\ASUS\Documents\CSC\Visual Studio\TicTacToe\TicTacToe\" +
-                @"tictactoe.mdb";
+                @"TİCTACTOE_VERİTABANI.db";
 
             //@"Data source= C:\Users\ASUS\Documents"
             try
